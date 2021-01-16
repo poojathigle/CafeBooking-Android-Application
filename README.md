@@ -1,4 +1,7 @@
 # CafeBooking-Android-Application
+Group Project - Third Year
+
+Computer Engineering, Cummins College of Engineering for Women,Pune 
 
 
 [Screenshots of Application.pdf](https://github.com/poojathigle/CafeBooking-Android-Application/files/5652405/Screenshots.of.Application.pdf)
